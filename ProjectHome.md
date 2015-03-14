@@ -1,0 +1,5 @@
+The Plone Foundation will celebrate its fourth birthday around the time students start coding for this year's SoC.  It exists to promote Plone, an open source Content Management System based on Zope 2.  Plone has existed since 1999 when the project was founded by Alexander Limi, Alan Runyan and Vidar Andersen.  The foundation is adminstered by the foundation board which is elected by the foundation membership.  Foundation membership represents exceptional contribution to the community and is subject to approval of an application, so far over 100 have been accepted.
+
+The community has had an annual conference since 2003 which has taken place in New Orleans, Vienna (twice), Seattle and Naples.  The Naples conference was attended by approximately 350 members of the community; a similar figure to the previous conference in Seattle.  Local user groups exist in many cities, some organising symposia; one such event is currently underway.
+
+In addition, over 800 projects are versioned in our community SVN repository, the collective and there are more than 1000 showcase websites and almost 250 companies specialising in Plone development listed on Plone.net.
